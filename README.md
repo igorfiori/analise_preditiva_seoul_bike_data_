@@ -80,10 +80,10 @@ As previsões para janeiro de 2019 foram geradas com o modelo temporal. Ressalta
 
 ### Resultados Principais
 
-* **Total projetado:** aproximadamente **350.000** bicicletas alugadas.
-* **Média diária projetada:** em torno de **470** bicicletas.
-* **Picos de demanda:** dias úteis às **18h** (aprox. 1.200 bicicletas).
-* **Mínimos de demanda:** madrugada (2h-4h, < 50 bicicletas).
+* **Total projetado:** aproximadamente **289.739** bicicletas alugadas.
+* **Média diária projetada:** em torno de **9.346** bicicletas.
+* **Picos de demanda:** dias úteis às **18h** (aprox. 2.829 bicicletas).
+* **Mínimos de demanda:** madrugada (2h-4h, < 11 bicicletas).
 * O heatmap de previsão confirmou os padrões de pico nos horários de deslocamento e baixa demanda noturna.
 
 ### Recomendações Operacionais
